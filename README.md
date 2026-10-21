@@ -27,7 +27,14 @@ I’m a passionate aspiring developer who enjoys learning programming, building 
 
 ---
 
-## 🚀 Featured Projects
+
+##🚀 Featured Projects
+
+<p align="center">
+  <a href="https://portfolio-yashaswi4.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Explore-6366F1?style=for-the-badge" alt="Visit my portfolio" />
+  </a>
+</p>
 
 Here are some of the projects I'm working on as I grow as a developer.
 
