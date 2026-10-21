@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Yashaswi Raj 👋
+Aspiring Frontend Developer
 
-<!--
-**Yashaswir-aj/Yashaswir-aj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building projects • Learning C & C++ • Exploring web development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+About Me
+👨‍💻 I'm an aspiring developer passionate about coding and building projects.
+- 🌱 Currently learning C and C++
+- 💻 Using Visual Studio Code for development
+- 🚀 Working on projects to improve my coding skills
+- 🎯 Goal: Become a skilled frontend developer
+- 📚 Always learning, building, and improving
+  Tech Stack
+  C
+  C++
+  VS Code
+  Git
+  GitHub
+  
+  Add HTML, CSS, JavaScript, and other frontend technologies as you learn them.
+  Current Focus
+- Strengthening programming fundamentals
+- Practicing problem-solving
+- Building and documenting projects
+- Learning frontend development step by step
